@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Rahul Sama and I'm a Data Enginner with 2 years of handson experience building Robust Data Pipelines. Right now i am focusing on Developing side by learning java</h2>
 
 ###
 

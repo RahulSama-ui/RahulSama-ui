@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://img.freepik.com/premium-photo/sticker-boy-coding-computer-anime-s-creative-design-bold-line-cute-kawaii-st_655090-454640.jpg?w=900"  />
 
 ###
 
